@@ -35,3 +35,11 @@ const myFunction = function(){
 }
 
 console.log(typeof heros);
+
+
+
+
+// +++++++++++++++++++++++++
+
+// Stack (Primitive),Heap (Non-primitive)
+
