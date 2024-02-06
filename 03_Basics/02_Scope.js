@@ -48,3 +48,5 @@ const addtwo = function(num){
 }
 
 addtwo(5)
+addtwo(5)
+addtwo(5)
