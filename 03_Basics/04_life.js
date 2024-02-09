@@ -1,6 +1,6 @@
 // Immediately Invoked Function Expressions (IIFE)
 
-(function chai(){
+(function tea(){
     console.log(`DB CONNECTED`);
 })();
 
