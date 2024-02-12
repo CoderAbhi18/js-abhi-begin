@@ -28,8 +28,8 @@ function one(){
 // one()
 
 if (true) {
-    const username = "Abhijit"
-    if (username === "Abhijit") {
+    const username = "Salunkhe"
+    if (username === "Salunkhe") {
         const website = " Youtube"
         // console.log(username + website);
     }
