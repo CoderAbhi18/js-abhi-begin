@@ -13,7 +13,7 @@ if (true){
 
 
 function one(){
-    const username = "Abhijit"
+    const username = "Abhi"
 
     function two(){
         const website = "Youtube"
@@ -29,7 +29,7 @@ function one(){
 
 if (true) {
     const username = "Salunkhe"
-    if (username === "Salunkhe") {
+    if (username === "Abhijit") {
         const website = " insta"
         // console.log(username + website);
     }
