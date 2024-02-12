@@ -30,7 +30,7 @@ function one(){
 if (true) {
     const username = "Salunkhe"
     if (username === "Salunkhe") {
-        const website = " INSTAGRAM"
+        const website = " twittwer"
         // console.log(username + website);
     }
     // console.log(website);
