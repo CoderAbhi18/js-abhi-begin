@@ -6,4 +6,4 @@
 
 ( (name) => {
     console.log(`DB CONNECTED TWO ${name}`);
-}) ("Salunkhe Abhijit Sanjay 18")
+}) ("Salunkhe Abhijit Sanjayyy")
