@@ -1,2 +1,3 @@
 # js-abhi-begin
-A Code repo for javascript learning series
+A Code repository for learning JavaScript from youtube channel Chai Aur Code.
+
