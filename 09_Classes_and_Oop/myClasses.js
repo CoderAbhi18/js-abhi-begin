@@ -15,7 +15,6 @@ class User {
 }
 
 const Abhi = new User("Abhi", "Abhi@gmail.com", "1817")
-
 console.log(Abhi.encryptPassword());
 console.log(Abhi.changeUsername());
 
