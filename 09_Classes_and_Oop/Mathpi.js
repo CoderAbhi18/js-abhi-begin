@@ -11,7 +11,7 @@ const chai = {
     isAvailable: true,
 
     orderChai: function(){
-        console.log("chai nahi bni");
+        console.log("chai nahi bani");
     }
 }
 
